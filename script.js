@@ -20,3 +20,5 @@ function CardMaker(cName, views, img_link, video_duration, ago, title, video_lin
 }
 
 CardMaker("Numberphile","1.7M","https://i.ytimg.com/vi/NGMRB4O922I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ_uk2aC4Nf2uco7xhmOQJqatnNg","9:11","10 years ago","The Mandelbrot Set - Numberphile","https://www.youtube.com/watch?v=NGMRB4O922I&list=PLt5AfwLFPxWL7NpD_DKO28XhS0Ugctkpu&index=2","https://www.youtube.com/@numberphile")
+
+CardMaker("Numberphile","2.3M","https://i.ytimg.com/an_webp/FFftmWSzgmk/mqdefault_6s.webp?du=3000&sqp=CPap_bUG&rs=AOn4CLCEm7aAYbi4i5ICrGcXw5nMkbGd2g","16:53","5 years ago","What's so special about the Mandelbrot Set? - Numberphile","https://www.youtube.com/watch?v=FFftmWSzgmk","https://www.youtube.com/@numberphile")
